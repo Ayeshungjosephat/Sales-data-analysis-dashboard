@@ -5,3 +5,9 @@ Develop a comprehensive two-year sales report to analyze sales trends, identify 
 ## Dataset used
 <a href="https://github.com/Ayeshungjosephat/Sales-data-analysis-dashboard/blob/main/Interactive%20Excel%20Dashboard%20_%20Sample%20Data.xlsx">Dataset</a>
 
+## KPIs
+- Highest selling item?
+- Top 10 company contributing to revenue.
+- Contribution of each region to revenue.
+- Top performing sales person.
+- Monthly revenue generation by year.
