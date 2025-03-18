@@ -1,3 +1,3 @@
-# Sales-Data-Analysis-Dashboard
+# Sales-Data-Analysis(Dashboard creation using MS Excel)
 ## Project Objective
 Develop a comprehensive two-year sales report to analyze sales trends, identify top-performing products, and uncover growth opportunities. The insights will help optimize strategies to increase sales and revenue in the coming years.
